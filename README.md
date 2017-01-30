@@ -1,7 +1,7 @@
 # ActivityLivecycle
 ###ScreenShot
 ![alt text](https://github.com/ridhanadhirafebyani/ActivityLivecycle/blob/master/actlive.png)
-![alt text](https://github.com/ridhanadhirafebyani/ActivityLivecycle/blob/master/actlive.png)
+![alt text](https://github.com/ridhanadhirafebyani/ActivityLivecycle/blob/master/sslc.PNG)
 ###Data Diri
 Nama : Ridha Nadhira Febyani <br>
 Kelas : XI RPL 5<br>
